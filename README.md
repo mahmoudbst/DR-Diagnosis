@@ -17,7 +17,7 @@ The Resnet50_model.py trains the model and stores the results (accuracy and loss
 python Resnet50_model.py
 ```
 ## Results
-![]()
+![](Capture%20d’écran%202021-10-11%20020043.png)
 
 
 
